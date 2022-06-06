@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chantae
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I've built projects using SCSS, jQuery, Bootstrap and Express.js
 - 💞️ I’m looking to collaborate on projects to gain more experience
 - 📫 How to reach me ...
 
