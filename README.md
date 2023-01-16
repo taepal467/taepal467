@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Chantae
-- 👀 I’m interested in Front-End Development
-- 🌱 I've built projects using SCSS, jQuery, Bootstrap and Express.js
+- 👋🏾 Hi, I’m Chantae from sunny California 😎
+- 👀 I’m interested in Front-End Development or HTML Email Development
+- 🌱 I've built projects using HTML, CSS, SASS, JavaScript, React, Webpack, jQuery
 - 💞️ I’m looking to collaborate on projects to gain more experience
 - 📫 How to reach me ...
 
